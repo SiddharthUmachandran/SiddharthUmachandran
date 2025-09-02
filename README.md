@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there👋
+My name is Sid, and I am a student in Computer Science at the University of Texas at Austin. I am a fullstack software developer!
+- 🔭 I’m currently collaborating on [CodeSprout](https://codesprout.net), where we are building an AI-powered platform for educators to teach coding to students.
+- 🌱 I’m currently learning TensorFlow as I am interested in agentic programming!
+- 👯 I’m looking to collaborate on projects building AI tools and agents
+  - 📫 How to reach me if interested: siddharth.umachandran@gmail.com
 <!--
 **SiddharthUmachandran/SiddharthUmachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
