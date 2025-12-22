@@ -1,7 +1,7 @@
 ## Hi there👋
 My name is Sid, and I am a student in Computer Science at the University of Texas at Austin. I am a fullstack software developer!
-- 🔭 I’m currently collaborating on [CodeSprout](https://codesprout.net), where we are building an AI-powered platform for educators to teach coding to students.
-- 🌱 I’m currently learning TensorFlow as I am interested in agentic programming!
+- 🔭 I’m currently building a robust parsing system for Cowboy AI, where we are building an AI-powered Oil and Gas evaluation platform.
+- 🌱 I’m currently learning TensorFlow and I am interested in agentic programming!
 - 👯 I’m looking to collaborate on projects building AI tools and agents
   - 📫 How to reach me if interested: siddharth.umachandran@gmail.com
 <!--
