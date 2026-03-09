@@ -1,7 +1,7 @@
 ## Hi there👋
 My name is Sid, and I'm studying Computer Science at the University of Texas at Austin. I specializing in building high-performance distributed systems and data infrastructure.
 - 🔭 I’m currently building a robust parsing system for Cowboy AI, where we are building an AI-powered Oil and Gas evaluation platform.
-- 🌱 I’m currently learning TensorFlow, Rust and I am interested in agentic programming!
+- 🌱 I'm building an orchestrator for agents that secures and scales agentic workflows.
   - 📫 How to reach me if interested: siddharth.umachandran@utexas.edu
 <!--
 **SiddharthUmachandran/SiddharthUmachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
